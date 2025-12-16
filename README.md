@@ -1,4 +1,4 @@
-# 🧶 Strands Agents + MCPTutorial — Manim Visualizations
+# 🧶 Strands Agents + MCP Tutorial — Manim Visualizations
 
 <p align="center">
   <img src="./imgs/demo.gif" alt="Strands Agent Demo" width="700"/>
