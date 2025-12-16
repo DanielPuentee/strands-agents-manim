@@ -1,0 +1,6 @@
+manim_tmp/
+__pycache__/
+.venv/
+.env
+.*_cache
+.vscode/
