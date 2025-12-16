@@ -11,7 +11,7 @@
 ![Manim](https://img.shields.io/badge/Manim-Unknown?logo=python&logoColor=fff)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-000?logo=json&logoColor=fff)
 ![uv](https://img.shields.io/badge/uv-package%20manager-purple?logo=python&logoColor=fff)
-![GitHub last commit](https://img.shields.io/github/last-commit/DanielPuentee/strands-manim-agent)
+![GitHub last commit](https://img.shields.io/github/last-commit/DanielPuentee/strands-agents-manim)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 > Author: [Daniel Puente Viejo](https://www.linkedin.com/in/danielpuenteviejo/)
