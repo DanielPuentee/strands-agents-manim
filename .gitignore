@@ -4,3 +4,5 @@ __pycache__/
 .env
 .*_cache
 .vscode/
+*.DS_Store
+*.mov
