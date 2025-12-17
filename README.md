@@ -21,7 +21,7 @@
 ## 🎯 Objective
 
 This repository shows how to **combine AWS Strands Agents + Manim** to enable **model-driven visualization** using the **Model Context Protocol (MCP)**.
-We will build an autonomous agent that accepts natural language math queries and orchestrates a local rendering engine to produce high-quality videos using **native AWS Bedrock models** (like Claude 3.5 Sonnet).
+We will build an autonomous agent that accepts natural language math queries and orchestrates a local rendering engine to produce high-quality videos using **native AWS Bedrock models**.
 
 ---
 

@@ -40,16 +40,7 @@ def main():
             StdioServerParameters(command="uv", args=["run", manim_server_path])
         ))
 
-        # ────────── Step 3: Check server status ──────────
-        logger.debug("Checking MCP server status...")
-        try:
-            with manim_mcp_client:
-                tools = manim_mcp_client.list_tools_sync()
-        except Exception as e:
-            logger.error("Error: MCP server is not running! Please run `uv run start_mcp_server.py` first.")
-            sys.exit(1)
-
-        # ────────── Step 4: Chat loop with Safe-Zone Prompt ──────────
+        # ────────── Step 3: Chat loop with Safe-Zone Prompt ──────────
         with manim_mcp_client:
             tools = manim_mcp_client.list_tools_sync()
             
